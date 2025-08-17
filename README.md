@@ -2,7 +2,7 @@
 
  Atm it's @Protean-Runna
 
-Mainly this is for hosting some of my personal projects as I learn and nurture my programming skills.
+Mainly this is for hosting some of my personal projects as I nurture my programming skills.
 
 Not much else for now I'm afraid. 
 <details>
@@ -27,8 +27,9 @@ Not much else for now I'm afraid.
    </p>
   <h4>Frameworks:</h4>
    <p align="left">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45" />
    
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original-wordmark.svg" width="45" height="45" />
    </p>
 </details>
 
