@@ -7,12 +7,16 @@ Mainly this is for hosting some of my personal projects as I nurture my programm
 Not much else for now I'm afraid. 
 <details>
  <summary>Except for this stuff</summary>
+  <h2> Currently Learning:</h2>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="45" height="45" />
+ 
   <H2>Some tools, frameworks and languages I am familiar with( and still learning ):</H2>
    <h4>Tools:</h4>
    <div style="display: flex; gap: 10px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" alt="Visual Studio" width="45" height="45" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="VS Code" width="45" height="45"  />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width="45" height="45" />
+    
   </div>
   
   <h4>Languages:</h4>
@@ -23,6 +27,7 @@ Not much else for now I'm afraid.
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="html" width="45" height="45"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="css" width="45" height="45" />
+   
 
         
    </div>
@@ -33,7 +38,16 @@ Not much else for now I'm afraid.
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original-wordmark.svg" alt="React Native" width="45" height="45" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="45" height="45" />  
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" alt="express" width="45" height="45"/>
-   </dive>
+   
+   </div>
+   <h4>Database Engines:</h4>
+   <div style="display: flex; gap: 10px;">
+   
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" width="45" height="45" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="45" height="45" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="45" height="45"/>
+   
+   </div>
 </details>
 
 
