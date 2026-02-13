@@ -4,9 +4,7 @@
 
 I design and make whatever comes to my mind really.
 
-
-This is for hosting some of my personal projects as I nurture my programming skills.
-
+My skills are mainly focused on full stack rn.
 
 Currently there is not many pinned projects or public repos, but there's plenty of private ones.
 
