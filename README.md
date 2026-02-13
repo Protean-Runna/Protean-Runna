@@ -1,12 +1,17 @@
-<h1>WHO IS THIS???</h1>
+<h1>Who are you?</h1>
 
  Atm it's @Protean-Runna
 
-Mainly this is for hosting some of my personal projects as I nurture my programming skills.
+I design and make whatever comes to my mind really.
+
+
+This is for hosting some of my personal projects as I nurture my programming skills.
+
+
+Currently there is not many pinned projects or public repos, but there's plenty of private ones.
 
 Not much else for now I'm afraid. 
-<details>
- <summary>Except for this stuff</summary>
+
   <h2> Currently Learning:</h2>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="45" height="45" />
  
@@ -49,7 +54,6 @@ Not much else for now I'm afraid.
    
    </div>
 </details>
-
 
 <!---
 Protean-Runna/Protean-Runna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
