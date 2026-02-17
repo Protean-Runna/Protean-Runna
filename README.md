@@ -9,11 +9,12 @@ My skills are mainly focused on full stack rn.
 Currently there is not many pinned projects or public repos, but there's plenty of private ones.
 
 Not much else for now I'm afraid. 
-
+<details>
+ <summary>Some tools, frameworks and languages I am familiar with( and still learning ):</summary>
   <h2> Currently Learning:</h2>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="45" height="45" />
  
-  <H2>Some tools, frameworks and languages I am familiar with( and still learning ):</H2>
+  <H2>Tech Stuff</H2>
    <h4>Tools:</h4>
    <div style="display: flex; gap: 10px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" alt="Visual Studio" width="45" height="45" />
