@@ -2,9 +2,7 @@
 
  Atm it's @Protean-Runna
 
-I design and make whatever comes to my mind really.
-
-My skills are mainly focused on full stack rn.
+I design and make whatever comes to my mind really, but my skills are mainly focused on full stack rn.
 
 Currently there is not many pinned projects or public repos, but there's plenty of private ones.
 
