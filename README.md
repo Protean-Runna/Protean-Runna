@@ -11,6 +11,7 @@ Not much else for now I'm afraid.
  <summary>Some tools, frameworks and languages I am familiar with( and still learning ):</summary>
   <h2> Currently Learning:</h2>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="45" height="45" />
  
   <H2>Tech Stuff</H2>
    <h4>Tools:</h4>
@@ -29,7 +30,8 @@ Not much else for now I'm afraid.
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="html" width="45" height="45"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="css" width="45" height="45" />
-   
+  
+
 
         
    </div>
