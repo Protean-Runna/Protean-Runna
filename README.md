@@ -10,7 +10,7 @@ Not much else for now I'm afraid.
 <details>
  <summary>Some tools, frameworks and languages I am familiar with( and still learning ):</summary>
   <h2> Currently Learning:</h2>
-  Nothing
+   Just practicing what I know (for now)
   <H2>Tech Stuff</H2>
    <h4>Tools:</h4>
    <div style="display: flex; gap: 10px;">
