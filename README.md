@@ -56,10 +56,6 @@ Not much else for now I'm afraid.
 </details>
 
 
-
-![Top Languages](https://vani-stats.vercel.app/api?username=Protean-Runna&theme=dark)
-
-
 <!---
 Protean-Runna/Protean-Runna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
